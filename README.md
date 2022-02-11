@@ -1,5 +1,5 @@
 # Portfolio
-My Tester's Portfolio
+Moje portfolio
 
 # O mnie
 
